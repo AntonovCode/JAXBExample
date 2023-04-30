@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <lastname>Иванов</lastname>
+        <firstname>Иван</firstname>
+        <phones>
+            <phoneInfo>
+                <phone>8-800-000-00-00</phone>
+                <isMain>true</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-000-00-01</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-000-00-02</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-000-00-03</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-000-00-04</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+        </phones>
+        <addresses>
+            <address>Тамбовская область, город Дмитров, бульвар Славы, 70</address>
+            <address>Самарская область, город Подольск, пр. Ладыгина, 50</address>
+            <address>Читинская область, город Коломна, бульвар Космонавтов, 34</address>
+        </addresses>
+    </person>
+    <person>
+        <lastname>Петров</lastname>
+        <firstname>Сергей</firstname>
+        <phones>
+            <phoneInfo>
+                <phone>8-800-777-00-00</phone>
+                <isMain>true</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-777-00-01</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-777-00-02</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-777-00-03</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+            <phoneInfo>
+                <phone>8-800-777-00-04</phone>
+                <isMain>false</isMain>
+            </phoneInfo>
+        </phones>
+        <addresses>
+            <address>Псковская область, город Серпухов, ул. Ленина, 51</address>
+            <address>Самарская область, город Можайск, пл. Гоголя, 65</address>
+        </addresses>
+    </person>
+</persons>
